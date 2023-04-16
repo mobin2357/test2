@@ -5,4 +5,7 @@ public class Main {
         //hdshdlchkdshcsdhjshdlckjsdhclsdhj
         //nvvfdbjvbjsfdbvjhdfbskjvbhdfbvkdbvksbvjbdsh
     }
+    public static String getHello() {
+        return "Hello, I'm a Java module!";
+    }
 }
